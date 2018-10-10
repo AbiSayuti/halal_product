@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HalalProduct</string>
+    <string name="NP">Nama Produk</string>
+    <string name="CP">Cari Produk</string>
+</resources>
